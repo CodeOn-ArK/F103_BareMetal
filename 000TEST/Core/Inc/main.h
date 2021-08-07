@@ -1,0 +1,17 @@
+/*
+ * main.h
+ *
+ *  Created on: Aug 7, 2021
+ *      Author: ark
+ */
+
+#ifndef INC_MAIN_H_
+#define INC_MAIN_H_
+
+
+#include <stdint.h>
+#include <stdint.h>
+#include <stdio.h>
+#include <stdbool.h>
+
+#endif /* INC_MAIN_H_ */
