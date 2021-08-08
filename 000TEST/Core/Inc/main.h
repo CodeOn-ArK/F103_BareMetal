@@ -14,4 +14,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+#include "stm32f103xb.h"
+#include "stm32f1xx.h"
+
 #endif /* INC_MAIN_H_ */
